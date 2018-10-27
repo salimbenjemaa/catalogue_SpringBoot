@@ -9,5 +9,6 @@ public class CatalogmongoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CatalogmongoApplication.class, args);
+		//test
 	}
 }
